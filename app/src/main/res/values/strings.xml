@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyLibrary</string>
+
+    <string name="id">Номер читательского билета/id библиотекаря</string>
+    <string name="password">Пароль</string>
+    <string name="login">Вход</string>
+    <string name="to_login">Войти</string>
+    <string name="forgot_password">Забыли пароль?</string>
+
+    <string name="reader">Читатель</string>
+    <string name="librarian">Библиотекарь</string>
+    <string name="registration">Регистрация</string>
+    <string name="reader_librarian">Читатель/библиотекарь</string>
+    <string name="name">ФИО</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="to_register">Зарегистрировать</string>
+
+    <string name="catalog">Каталог</string>
+    <string name="search">Поиск</string>
+    <string name="profile">Профиль</string>
+    <string name="readers">Читатели</string>
+    <string name="books">Выданное</string>
+
+    <string name="wrong_login_or_password">Неверный логин или пароль</string>
+
+    <string name="issued_books">Выданные книги</string>
+
+    <string name="readers_list">Список читателей</string>
+
+    <string name="photo">Фото</string>
+    <string name="available_books">Доступные книги:</string>
+
+    <string name="change_password">Сменить пароль</string>
+    
+    <string name="view">Вид</string>
+    <string name="filter">Фильтр</string>
+    <string name="edit">Изменить</string>
+    <string name="add">Добавить</string>
+</resources>
